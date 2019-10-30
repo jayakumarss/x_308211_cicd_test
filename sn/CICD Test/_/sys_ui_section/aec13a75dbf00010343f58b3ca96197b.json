@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "x_308211_cicd_test_test_request",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-30 17:11:42",
+  "sys_id": "aec13a75dbf00010343f58b3ca96197b",
+  "sys_mod_count": 0,
+  "sys_name": "x_308211_cicd_test_test_request",
+  "sys_package": "31317635dbf00010343f58b3ca961998",
+  "sys_policy": null,
+  "sys_scope": "31317635dbf00010343f58b3ca961998",
+  "sys_update_name": "sys_ui_section_aec13a75dbf00010343f58b3ca96197b",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-30 17:11:42",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
